@@ -1,1 +1,1 @@
-# LexGluenew
+# Legal Outcome Prediction
